@@ -8,7 +8,7 @@ Name of QuantLet: CBR_BK
 
 Published in: 'A Data-driven Case-based Reasoning in Bankruptcy Prediction'
 
-Description: 'This Quantlet is an example of training case-based reasoning, the performance of which has been compared with other machine learning methods. The dataset is the German credit data publicly available in UCI. The credit reform data used in the paper is confidential and can be collected based on requests from the Blockchain Research Center.(BRC, https://blockchain-research-center.de/)'
+Description: 'This Quantlet is an example of training case-based reasoning, the performance of which has been compared with other machine learning methods. The dataset is the German credit data publicly available in UCI. The credit reform data used in the paper is confidential and can be collected based on requests from the Blockchain Research Center (BRC, https://blockchain-research-center.de/)'
 
 Keywords: 'Decision support system, Bankruptcy prediction, Case-based reasoning, Explainable machine learning, Particle swarm optimization' 
 
