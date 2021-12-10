@@ -6,7 +6,7 @@
 
 Name of QuantLet: CBR-BK
 
-Published in: 'TBD'
+Published in: 'A Data-driven Case-based Reasoning in Bankruptcy Prediction'
 
 Description: 'Explainability of A Data-driven Case-based Reasoning Approach in Bankruptcy Prediction and Decision'
 
