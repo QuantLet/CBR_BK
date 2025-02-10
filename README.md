@@ -13,7 +13,7 @@ Description: Explainability of A Data-driven Case-based Reasoning Approach in Ba
 
 Keywords: Decision support system, Bankruptcy prediction, Case-based reasoning, Explainable AI, Particle swarm
 
-Author: Wei Li, Wolfgang Karl H ̈ardl
+Author: Wei Li, Wolfgang Karl Härdle
 
 Submitted: 02.12.2021
 
